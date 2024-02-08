@@ -12,4 +12,20 @@
 .card span {
   display: inline-block;
   margin: 0 2em;
+  font-size: 2em;
+}
+
+.card button {
+  font-size: 2em;
+}
+
+.input-container input {
+  width: 200px;
+  height: 40px;
+  font-size: 2em;
+}
+
+p {
+  max-width: 250px;
+  margin: 0 auto 20px;
 }

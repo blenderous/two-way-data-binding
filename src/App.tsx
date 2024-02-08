@@ -8,7 +8,11 @@ function App() {
 
   return (
     <>
-      <h1>Two Way Data Binding</h1>
+      <h1>Two Way<br/> Data Binding</h1>
+      <p>
+        Edit the number in the input box by clicking on the Plus or Minus
+        buttons or by directly editing the number inside the input.
+      </p>
       <div className="input-container">
         <input
           type="number"
